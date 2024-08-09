@@ -15,6 +15,7 @@
 		912577132C636976007B2E78 /* AccountView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 912577122C636976007B2E78 /* AccountView.swift */; };
 		912577152C63698A007B2E78 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 912577142C63698A007B2E78 /* OrderView.swift */; };
 		912577172C636D9F007B2E78 /* Appetizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 912577162C636D9F007B2E78 /* Appetizer.swift */; };
+		912577192C65EB46007B2E78 /* AppetizerListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 912577182C65EB46007B2E78 /* AppetizerListCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		912577122C636976007B2E78 /* AccountView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountView.swift; sourceTree = "<group>"; };
 		912577142C63698A007B2E78 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		912577162C636D9F007B2E78 /* Appetizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Appetizer.swift; sourceTree = "<group>"; };
+		912577182C65EB46007B2E78 /* AppetizerListCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerListCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				912577022C6361BA007B2E78 /* AppetizersApp.swift */,
 				912577042C6361BA007B2E78 /* AppetizerTabView.swift */,
 				912577102C636958007B2E78 /* AppetizerListView.swift */,
+				912577182C65EB46007B2E78 /* AppetizerListCell.swift */,
 				912577122C636976007B2E78 /* AccountView.swift */,
 				912577142C63698A007B2E78 /* OrderView.swift */,
 				912577062C6361BD007B2E78 /* Assets.xcassets */,
@@ -150,6 +153,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				912577172C636D9F007B2E78 /* Appetizer.swift in Sources */,
+				912577192C65EB46007B2E78 /* AppetizerListCell.swift in Sources */,
 				912577132C636976007B2E78 /* AccountView.swift in Sources */,
 				912577052C6361BA007B2E78 /* AppetizerTabView.swift in Sources */,
 				912577032C6361BA007B2E78 /* AppetizersApp.swift in Sources */,
