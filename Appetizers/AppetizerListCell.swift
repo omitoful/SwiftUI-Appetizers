@@ -12,7 +12,7 @@ struct AppetizerListCell: View {
     
     var body: some View {
         HStack {
-            Image("")
+            Image(appetizer.imageURL)
                 .resizable()
                 .aspectRatio(contentMode: .fill)
                 .background(.brandPrimary)
