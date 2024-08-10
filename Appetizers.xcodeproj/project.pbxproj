@@ -19,6 +19,7 @@
 		9125771B2C65EC59007B2E78 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9125771A2C65EC59007B2E78 /* NetworkManager.swift */; };
 		9125771D2C65EFC9007B2E78 /* APError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9125771C2C65EFC9007B2E78 /* APError.swift */; };
 		9125771F2C674BBD007B2E78 /* AppetizerListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9125771E2C674BBD007B2E78 /* AppetizerListViewModel.swift */; };
+		912577212C674EDF007B2E78 /* Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 912577202C674EDF007B2E78 /* Alert.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		9125771A2C65EC59007B2E78 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		9125771C2C65EFC9007B2E78 /* APError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APError.swift; sourceTree = "<group>"; };
 		9125771E2C674BBD007B2E78 /* AppetizerListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerListViewModel.swift; sourceTree = "<group>"; };
+		912577202C674EDF007B2E78 /* Alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alert.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				912577162C636D9F007B2E78 /* Appetizer.swift */,
 				9125771A2C65EC59007B2E78 /* NetworkManager.swift */,
 				9125771C2C65EFC9007B2E78 /* APError.swift */,
+				912577202C674EDF007B2E78 /* Alert.swift */,
 				912577082C6361BD007B2E78 /* Preview Content */,
 			);
 			path = Appetizers;
@@ -169,6 +172,7 @@
 				912577052C6361BA007B2E78 /* AppetizerTabView.swift in Sources */,
 				9125771B2C65EC59007B2E78 /* NetworkManager.swift in Sources */,
 				912577032C6361BA007B2E78 /* AppetizersApp.swift in Sources */,
+				912577212C674EDF007B2E78 /* Alert.swift in Sources */,
 				912577112C636958007B2E78 /* AppetizerListView.swift in Sources */,
 				912577152C63698A007B2E78 /* OrderView.swift in Sources */,
 			);
