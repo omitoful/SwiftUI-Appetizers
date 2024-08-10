@@ -16,6 +16,8 @@
 		912577152C63698A007B2E78 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 912577142C63698A007B2E78 /* OrderView.swift */; };
 		912577172C636D9F007B2E78 /* Appetizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 912577162C636D9F007B2E78 /* Appetizer.swift */; };
 		912577192C65EB46007B2E78 /* AppetizerListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 912577182C65EB46007B2E78 /* AppetizerListCell.swift */; };
+		9125771B2C65EC59007B2E78 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9125771A2C65EC59007B2E78 /* NetworkManager.swift */; };
+		9125771D2C65EFC9007B2E78 /* APError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9125771C2C65EFC9007B2E78 /* APError.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +31,8 @@
 		912577142C63698A007B2E78 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		912577162C636D9F007B2E78 /* Appetizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Appetizer.swift; sourceTree = "<group>"; };
 		912577182C65EB46007B2E78 /* AppetizerListCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerListCell.swift; sourceTree = "<group>"; };
+		9125771A2C65EC59007B2E78 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
+		9125771C2C65EFC9007B2E78 /* APError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APError.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +73,8 @@
 				912577142C63698A007B2E78 /* OrderView.swift */,
 				912577062C6361BD007B2E78 /* Assets.xcassets */,
 				912577162C636D9F007B2E78 /* Appetizer.swift */,
+				9125771A2C65EC59007B2E78 /* NetworkManager.swift */,
+				9125771C2C65EFC9007B2E78 /* APError.swift */,
 				912577082C6361BD007B2E78 /* Preview Content */,
 			);
 			path = Appetizers;
@@ -153,9 +159,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				912577172C636D9F007B2E78 /* Appetizer.swift in Sources */,
+				9125771D2C65EFC9007B2E78 /* APError.swift in Sources */,
 				912577192C65EB46007B2E78 /* AppetizerListCell.swift in Sources */,
 				912577132C636976007B2E78 /* AccountView.swift in Sources */,
 				912577052C6361BA007B2E78 /* AppetizerTabView.swift in Sources */,
+				9125771B2C65EC59007B2E78 /* NetworkManager.swift in Sources */,
 				912577032C6361BA007B2E78 /* AppetizersApp.swift in Sources */,
 				912577112C636958007B2E78 /* AppetizerListView.swift in Sources */,
 				912577152C63698A007B2E78 /* OrderView.swift in Sources */,
